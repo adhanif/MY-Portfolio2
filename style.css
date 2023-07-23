@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #f4f4f4;
+    
+}
+
+.aside{
+    width: 30%;
+    height: 100vh;
+    background-color: #040B14;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.sidebar-header{
+    margin: 0;
+}
